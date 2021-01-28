@@ -51,7 +51,7 @@ Fork the repo
 * Push your changes so we can have a view!
 
 ## Known Bugs
-No known bugs so far but if incase you find any, kindly feel free to reach me out on pkungu004@gmail.com.
+Bug the profile url link kindly feel free to reach me out on pkungu004@gmail.com
 
 ## License
 * [[License: MIT]](LICENSE.md)
