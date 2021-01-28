@@ -1,1 +1,1 @@
-3.6.9
+web: gunicorn awward.wsgi --log-file -
