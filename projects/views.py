@@ -69,7 +69,7 @@ def addProject(request):
     return render(request,'newProject.html',{'form':form})    
 
 def profile(request,id):
-    prof = Profile.objects.get(user = id)
+    prof = Profile.objects.all()
     return render(request,'profile.html',{"profile":prof})
 
 def editprofile(request):
